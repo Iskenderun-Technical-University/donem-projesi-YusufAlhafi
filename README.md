@@ -5,4 +5,4 @@ Giriş yaptığımızda doktor ve hasta tablolarının olduğu bir ekrana gidiyo
 
 ritabanında iki tablo oluşturmam gerekecek, doktorlar için bir tablo ve hastalar için bir tablo.
 ##
-![Sql-diagram](./image/1.jpeg)
+![Sql-diagram](./imege/1.jpeg)
