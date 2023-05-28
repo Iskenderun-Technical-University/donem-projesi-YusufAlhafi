@@ -9,4 +9,4 @@ Giriş yaptığımızda doktor ve hasta tablolarının olduğu bir ekrana gidiyo
 Veritabanlari:
 iki tablo oluşturmam gerekecek, doktorlar için bir tablo ve hastalar için bir tablo.
 ##
-![Sql-diagram](./imege/1.jpeg)
+![Sql-diagram](./image/1.jpeg)
