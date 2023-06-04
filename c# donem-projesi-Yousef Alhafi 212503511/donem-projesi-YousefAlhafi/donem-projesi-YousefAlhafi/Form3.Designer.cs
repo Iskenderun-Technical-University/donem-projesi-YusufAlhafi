@@ -204,12 +204,12 @@
             this.phoneNumberDataGridViewTextBoxColumn,
             this.doctorNameDataGridViewTextBoxColumn});
             this.dataGridView1.DataSource = this.patientTabBindingSource;
-            this.dataGridView1.Location = new System.Drawing.Point(577, 12);
+            this.dataGridView1.Location = new System.Drawing.Point(559, 9);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 26;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(551, 479);
+            this.dataGridView1.Size = new System.Drawing.Size(571, 470);
             this.dataGridView1.TabIndex = 37;
             this.dataGridView1.SelectionChanged += new System.EventHandler(this.dataGridView1_SelectionChanged);
             // 
@@ -273,7 +273,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1140, 494);
+            this.ClientSize = new System.Drawing.Size(1142, 494);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -290,6 +290,7 @@
             this.Controls.Add(this.button2);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form3";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form3";
             this.Load += new System.EventHandler(this.Form3_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

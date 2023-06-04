@@ -33,7 +33,8 @@ namespace donem_projesi_YousefAlhafi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            Application.OpenForms[0].Show();
+            this.Close();
         }
     }
 }

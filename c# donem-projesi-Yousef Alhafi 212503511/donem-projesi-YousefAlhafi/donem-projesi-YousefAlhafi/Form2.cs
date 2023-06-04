@@ -22,7 +22,7 @@ namespace donem_projesi_YousefAlhafi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Application.OpenForms[0].Show();
+            Application.OpenForms[1].Show();
             this.Close();
         }
         public DataTable LoadUserTable()

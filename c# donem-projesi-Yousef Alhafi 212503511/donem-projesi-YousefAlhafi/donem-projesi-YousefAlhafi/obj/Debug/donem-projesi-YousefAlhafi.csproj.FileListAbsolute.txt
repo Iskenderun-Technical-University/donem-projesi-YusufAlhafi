@@ -28,3 +28,4 @@ C:\Users\YUSUF AL-HAFI\Desktop\iste\donem-projesi-YusufAlhafi\c# donem-projesi-Y
 C:\Users\YUSUF AL-HAFI\Desktop\iste\donem-projesi-YusufAlhafi\c# donem-projesi-Yousef Alhafi 212503511\donem-projesi-YousefAlhafi\donem-projesi-YousefAlhafi\obj\Debug\donem-projesi-YousefAlhafi.csproj.CoreCompileInputs.cache
 C:\Users\YUSUF AL-HAFI\Desktop\iste\donem-projesi-YusufAlhafi\c# donem-projesi-Yousef Alhafi 212503511\donem-projesi-YousefAlhafi\donem-projesi-YousefAlhafi\obj\Debug\donem-projesi-YousefAlhafi.exe
 C:\Users\YUSUF AL-HAFI\Desktop\iste\donem-projesi-YusufAlhafi\c# donem-projesi-Yousef Alhafi 212503511\donem-projesi-YousefAlhafi\donem-projesi-YousefAlhafi\obj\Debug\donem-projesi-YousefAlhafi.pdb
+C:\Users\YUSUF AL-HAFI\Desktop\iste\donem-projesi-YusufAlhafi\c# donem-projesi-Yousef Alhafi 212503511\donem-projesi-YousefAlhafi\donem-projesi-YousefAlhafi\obj\Debug\donem_projesi_YousefAlhafi.Formlogin.resources
